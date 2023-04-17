@@ -12,6 +12,13 @@
     --color-twelve:#111656;
 }
 
+/* flex for center */
+body{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
 /* grid container */
 #container{
     width: 31.25rem;
