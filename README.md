@@ -1,3 +1,3 @@
 
 ### Tableau-I-Mondrian
-Project made by using - CSS Grids
+Overview: Tried to re-create the Mondrian art with CSS GRIDS.
